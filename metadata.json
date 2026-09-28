@@ -1,0 +1,10 @@
+{
+  "name": "MediVerify AI",
+  "description": "AI-assisted medicine authenticity, packaging details, and expiry date verification against trusted records.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
